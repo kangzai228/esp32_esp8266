@@ -50,9 +50,9 @@ void setup() {
 void loop() {
 
   digitalWrite(ledPin,HIGH);
-  delay(500);
+  delay(1000);
   digitalWrite(ledPin,LOW);
-  delay(500);
+  delay(1000);
   
   // Check if a client has connected
   WiFiClient client = server.available();
