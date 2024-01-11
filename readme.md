@@ -70,9 +70,7 @@
 
 全esp32引脚突围
 
-点击链接了解更多详情：
-
-http://espressif.com/en/products/hardware/esp32-devkitc/overview
+[点击链接了解更多详情](http://espressif.com/en/products/hardware/esp32-devkitc/overview)
 
 ![esp32](esp32_01.jpg)
 
