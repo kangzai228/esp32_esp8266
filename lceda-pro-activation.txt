@@ -1,0 +1,8 @@
+{
+    "username": "kangzai228",
+    "customer_code": "7505970A",
+    "email": "kangzai228@163.com",
+    "phone": "15970706285",
+    "company": "江西省于都中学",
+    "license": "dXNlcm5hbWV8Y3VzdG9tZXJfY29kZXxlbWFpbHxwaG9uZXxjb21wYW55,A812jYxqBfaV9kOf+LfmU1+PZ\/G6euKPp9XOEJFQq4k+kzoeZXg52nxH1XmGA8nvNPhuKdVIdkjAmpLdBT50TvqSkbXfVL\/6Hnh62ZjJS4iSo74TX8ugp\/sBA048Wsre\/qtqD6VarTkdMxZKObdGG\/x05rbs0FGhNBUGDiwf4wI="
+}
